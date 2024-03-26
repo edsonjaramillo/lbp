@@ -1,0 +1,13 @@
+# core
+node_modules
+
+# next
+.next
+next-env.d.ts
+
+# environment
+.env.local
+.env.development
+
+# hidden
+.DS_Store
